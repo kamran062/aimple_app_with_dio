@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731835768305",
+    "project_id": "myimpactmetertask",
+    "storage_bucket": "myimpactmetertask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731835768305:android:9df3b6a5ac04804dad3850",
+        "android_client_info": {
+          "package_name": "com.example.myimpactmetertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731835768305-8ulbgt47ehpj65lrdsci5rhu8a7et3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hfJaaEVjZ4Z_Yq3MFAKfBfeXALHwp00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731835768305-1m5qk3fha3tuphcqldp2397b3fjm64nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
